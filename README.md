@@ -1,17 +1,6 @@
-** How to import your data. **
+## Movie Database Joins Exercise 
 
-1. In PgAdmin, right click on Databases (under Servers -> Postgresql 15). Hover over Create, then click Database.
-
-2. Enter in the name ‘Joins’ (not the apostrophes). Click Save.
-
-3. Left click the server ‘Joins’. Left click Schemas. 
-
-4. Right click public and select Restore.
-
-5. Select the folder icon in the filename row. Navigate to the data folder of your repo and select the file movies.backup. Click Restore.
-
-
-** Movie Database project. See the file movies_erd for table\column info. **
+See the file movies_erd for table and column info.
 
 1. Give the name, release year, and worldwide gross of the lowest grossing movie.
 
